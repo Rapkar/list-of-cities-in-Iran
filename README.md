@@ -88,6 +88,11 @@ In this repository, you can access the list of cities and provinces of Iran in v
 $ git clone https://github.com/sajaddp/list-of-cities-in-Iran.git
 ```
 
+```curl
+https://php-tutorial.ir/API/?provinces
+https://php-tutorial.ir/API/?city={provinces_id}  #https://php-tutorial.ir/API/?city=1
+```
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
